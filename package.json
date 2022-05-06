@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Madses/qbot/issues"
   },
-  "homepage": "https://github.com/Madses/qbot#readme"
+  "homepage": "https://github.com/Madses/qbot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
 }
